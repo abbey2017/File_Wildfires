@@ -3,4 +3,6 @@
  (1) The provided code is written in R
 
  (2) User must ensure that all libraries called in the code are installed on own computer.
+ 
+ (3) Code includes both prediction and classification tasks.
   
